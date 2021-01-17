@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>martindue.dev</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to martindue.dev 🥳" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Backend Developer ⚡️ <a href="https://quickorder.io/" target="_blank">QuickOrder</a>
         </p>
       </main>
 
