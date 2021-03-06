@@ -10,6 +10,21 @@ body {
   box-sizing: border-box;
 }
 
+body {
+  background: #0d1117;
+  color: #c1d9d1;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover, a:focus, a:visited {
+  color: #fff;
+  text-decoration: underline;
+}
+
 main {
   padding: 5rem 0;
   flex: 1;

@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to martindue.dev" />
+        <Header title="martindue.dev" />
         <p className="description">
-          Backend Developer ⚡️ <a href="https://quickorder.io/" target="_blank">QuickOrder</a> and tinkering 🧠 <a href="https://github.com/martinduefrandsen" target="_blank">martinduefrandsen</a>
+          Backend Developer at <a href="https://quickorder.io/">QuickOrder</a> and fiddling, tinkering, experimenting on <a href="https://github.com/martinduefrandsen">martinduefrandsen</a>
+        </p>
+        <p>
+          Get in touch at <a href="mailto:ihaveamessagefor@martindue.dev">ihaveamessagefor@martindue.dev</a>
         </p>
       </main>
 
