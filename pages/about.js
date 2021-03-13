@@ -11,7 +11,7 @@ export default function About() {
       </Head>
 
       <main>
-        <Header title="About" />
+        <a href="/pokemon"><Header title="About" /></a>
         <p className="description">
         I'm not wearing hockey pads. Someone like you. Someone who'll rattle the cages. I can't do that as Bruce Wayne... as a man. I'm flesh and blood. I can be ignored, destroyed. But as a symbol, I can be incorruptible, I can be everlasting.
 <br/><br/>
